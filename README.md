@@ -1,4 +1,5 @@
 <h1>Practice 10.5 Array-related problems</h1>
+<ul>
 <ol>
 <li>WAP that will take n integer numbers into an array, and then sum up all the integers in that array.<br>
 <b>Sample input<b><br>
