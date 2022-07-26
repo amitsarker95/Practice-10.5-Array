@@ -2,7 +2,7 @@
 <ol>
 <li>WAP that will take n integer numbers into an array, and then sum up all the integers in that array.<br>
 <b>Sample input<b><br>
-5<br
+5<br>
 1  2  3  4  5<br>
 <br>
 6<br>
@@ -101,6 +101,7 @@ Empty set<br>
 <br>
 3<br>
 3 2 1<br>
+<br>
 <b>Sample output</b><br>
 7 8 1 -1 2 -1 4 -1<br>
 <br>
@@ -116,13 +117,13 @@ Empty set<br>
 <br>
 4<br>
 6 7 8 9<br>
+<br>
 <b>Sample output</b><br>
 2 8 1 3 6 4<br>
 <br>
 3<br>
 <br>
 6 7 8 9<br>
-
 </li>
 
 </ol>
